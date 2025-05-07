@@ -16,7 +16,7 @@ TaskVault is a web-based application designed to simplify task assignment, track
 
 **Admin Dashboard**
       
-      ![Screenshot 2025-04-11 151116](https://github.com/user-attachments/assets/5adfbd7a-9504-4f71-b06d-34a86452b2ca)
+![Screenshot 2025-04-11 151116](https://github.com/user-attachments/assets/5adfbd7a-9504-4f71-b06d-34a86452b2ca)
 
       Add new employees
       
@@ -32,7 +32,7 @@ TaskVault is a web-based application designed to simplify task assignment, track
 
 **Employee Dashboard**
 
-      ![Screenshot 2025-04-11 152407](https://github.com/user-attachments/assets/904dd762-c5da-4006-8576-9390ed159e75)
+![Screenshot 2025-04-11 152407](https://github.com/user-attachments/assets/904dd762-c5da-4006-8576-9390ed159e75)
 
       Login and view personal profile
       
