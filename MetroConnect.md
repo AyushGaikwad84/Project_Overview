@@ -1,4 +1,4 @@
-**MetroConnect: Metro Reservation System** 🚇 MetroConnect is a web-based metro reservation system designed to simplify travel bookings with real-time ticketing, dynamic fare calculation, and secure QR code-based ticket validation.
+**MetroConnect: Metro Reservation System** 🚇 MetroConnect is a web-based metro reservation system designed to simplify travel bookings with real-time ticketing, dynamic fare calculation, and secure QR code-based ticket validation. UPI payment supported via manual QR scan (no payment gateway integration). Future-ready structure to integrate wallet systems or secure payment gateways.
 
 🛠️ **Technologies Used:**
 
